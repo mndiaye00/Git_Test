@@ -4,6 +4,9 @@ public class Test {
 	
 	public static void main(String[] args) {
 		sayHello();
+		
+		System.out.println("");
+		System.out.println("Good job !!!");
 	}
 	
 	public static void sayHello() {
@@ -12,3 +15,4 @@ public class Test {
 		}
 	}
 }
+ 
